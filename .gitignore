@@ -1,0 +1,18 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.eep
+*.d
+*.map
+
+# Arduino IDE folders
+*.ino.*
+build/
+.DS_Store
+*.vscode/
+
+# Python virtual environments (if used)
+venv/
+__pycache__/
+*.pyc

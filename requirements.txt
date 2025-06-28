@@ -1,0 +1,3 @@
+# Optional Python packages for serial communication or plotting
+pyserial
+matplotlib
